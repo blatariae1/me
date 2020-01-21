@@ -1,0 +1,21 @@
+/* Criação da Classe Center com Instrução de alinhamento no centro */
+.center
+{
+    text-align: center;
+    
+}
+
+.size-img
+{
+    width: 27%;
+}
+
+.bg
+{
+    background-color: #2C3E50;
+}
+
+.txt-color
+{
+    color: white;
+}
